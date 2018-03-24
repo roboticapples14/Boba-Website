@@ -1,5 +1,4 @@
 body {
-	background-color: MintCream;
 }
 h1 {
 	text-align: center;
@@ -14,11 +13,18 @@ img {
 h4 {
 	margin: 15px;
 }
-.suckmyballs {
-	width: 80px;
-	height: 150px;
-}
 .info {
 	font-style: Geneva;
 	margin: 15px;
+}
+.header {
+    background-color: AliceBlue;
+    padding: 30px;
+    text-align: center;
+    font-size: 35px;
+}
+.headerphoto {
+  display: inline-block;
+  width: 49.5%;
+  height: 450px;
 }
