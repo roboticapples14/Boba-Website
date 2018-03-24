@@ -9,7 +9,11 @@
     </title>
     </head>
   <body>
+    <div class="header">
     <h1>An Intro's Guide to Boba</h1>
+    </div>
+      <img class="headerphoto" src="https://fthmb.tqn.com/NPZfv_9o3QtC3rLWMZtWzlCsFsQ=/960x0/filters:no_upscale()/boba-5a70e14e6bf0690037982c1a.jpg">
+      <img class="headerphoto" src="http://drinktapio.com/wp-content/uploads/2014/09/mark3640-2048x1365.jpg">
     <h2 class=info><strong>Boba</strong> (noun): a cold, frothy drink made with iced tea, sweetened milk or other flavorings, and usually with sweet black balls or “pearls” made from tapioca.</h2>
     	<img src="https://images1.miaminewtimes.com/imager/u/745xauto/7576099/img_2295.jpg">
     <p class=info>Bubble tea, or boba, has taken off as a popular sweet drink around the world, now making its way into Western countries after gaining popularity in asian countries such as Tiwan, Japan, Korea, and the Phillipenes.</p>
