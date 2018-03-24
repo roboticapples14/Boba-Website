@@ -1,8 +1,12 @@
 body {
+	background: linear-gradient(GhostWhite, LavenderBlush);
 }
 h1 {
 	text-align: center;
-	color: LightCoral;
+	color: #FFD1D1;
+    font-size: 45px;
+    letter-spacing: 2px;
+    font-style: Helvetica;
 }
 img {
     display: block;
@@ -11,20 +15,59 @@ img {
     width: 40%;
 }
 h4 {
-	margin: 15px;
+    margin-left: auto;
+    margin-right: auto;
+}
+p {
+	font-size: 18px;
+}
+ul {
+	margin-left: auto;
+    margin-right: auto;
 }
 .info {
 	font-style: Geneva;
 	margin: 15px;
+    color: #403D39;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: justify;
+    font-style: Georgia;
+    width: 1000px;
+    
 }
 .header {
-    background-color: AliceBlue;
+    background-color: SlateGray;
     padding: 30px;
     text-align: center;
-    font-size: 35px;
+    font-size: 45px;
+    letter-spacing: 2px;
+    font-style: Helvetica;
 }
 .headerphoto {
-  display: inline-block;
-  width: 49.5%;
-  height: 450px;
+  display: block;
+  width: 725px;
+  height: 475px;
+  padding: 25px;
+  border: 6px double #323A41;
+  margin: 50;
+  margin-left: auto;
+  margin-right: auto;
+}
+#grad {
+ background: linear-gradient(LightCoral, GhostWhite);
+}
+#definition {
+	width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: justify;
+    font-style: Georgia;
+}
+h4.2types {
+	margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    position: relative;
+    left: 100px;
 }
