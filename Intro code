@@ -9,30 +9,39 @@
     </title>
     </head>
   <body>
+  <ul class="navbar">
+  <li><a href="C:\Users\9031648\sublime\homepage.html">Home</a></li>
+  <li><a href="C:\Users\9031648\sublime\boba toppings page.html">Toppings</a></li>
+  <li><a>Contact</a></li>
+  </ul>
     <div class="header">
     <h1>An Intro's Guide to Boba</h1>
     </div>
+    <div type=button>
+    <
+
     <br>
       <img class="headerphoto" src="https://az616578.vo.msecnd.net/files/2016/08/06/636060617403493484-1473106111_boba%20cover.jpeg">
     <h2 class=info id=definition><strong><em>Boba</em></strong> (noun): a cold, frothy drink made with iced tea, sweetened milk or other flavorings, and usually with sweet black balls or “pearls” made from tapioca.</h2>
-    	<img src="https://images1.miaminewtimes.com/imager/u/745xauto/7576099/img_2295.jpg">
     <p class=info>Bubble tea, or boba, has taken off as a popular sweet drink around the world, now making its way into Western countries after gaining popularity in asian countries such as Tiwan, Japan, Korea, and the Phillipenes.</p>
-      <img src="http://bobatopia.net/wp-content/uploads/2017/12/asian-teas-and-sweets-super-valley-guide-300x155.png">
+    <img src="https://images1.miaminewtimes.com/imager/u/745xauto/7576099/img_2295.jpg">
     <h4 class=info class=2types>There are 2 main types of boba: fruit tea and milk tea, as seen above</h4>
-      <img src="https://www.austin360.com/rf/image_large/Pub/p8/Austin360/2017/10/13/Images/labobatory%20teas.jpg">
+    <img src="http://bobatopia.net/wp-content/uploads/2017/12/asian-teas-and-sweets-super-valley-guide-300x155.png">
       <p class=info>And, of course there are hybryds of the two, but these are only found on a very rare ocassion, as they only exist in the most hipsterst cities where people mainly just want to take a picture of their "aesthetic" drink for instagram so they can get momentary gratification from likes on a screen even though their real life is crumbling around them. BUT IT'S OKAY, RIGHT? YOU HAVE FUCKING AESTHETIC BOBA, AND EVERYBODY KNOWS THAT NOW BECAUSE IT'S GOTTEN 46 VIEWS ON SNAPCHAT, SO WHO REALLY GIVES A FUCK, RIGHT?!?!?!?!?</p>
-        <img src="https://img.buzzfeed.com/buzzfeed-static/static/2014-06/23/13/campaign_images/webdr06/23-bodacious-bubble-tea-recipes-you-need-to-try-t-2-17435-1403543924-21_dblbig.jpg">
+      <img src="https://www.austin360.com/rf/image_large/Pub/p8/Austin360/2017/10/13/Images/labobatory%20teas.jpg">
       <p class=info>Although boba is the namestake of this tasty drink, "boba"-or "pearls"- is only one ingrdient in bubble tea, and even it's optional! There are many more similar things avalible to add to your tea that are just as fun and delicious as the popular perals. In most boba places you can usually order whatever combonation of these toppings that you'd like</p>
       <p>These toppings include:</p>
-      <ul> 
-        <li>Coconut jelly</li>
-        <li>Konjac</li>
-        <li>Red beans</li>
-        <li>Popping boba</li>
-        <li>Lychee</li>
-        <li>Grass jelly</li>
-        <li>Mango</li>
+      <ul class="toppings"> 
+        <li href="https://en.wikipedia.org/wiki/Coconut_jelly">Coconut jelly</li>
+        <li href="https://en.wikipedia.org/wiki/Konjac">Konjac</li>
+        <li href="https://en.wikipedia.org/wiki/Red_bean">Red beans</li>
+        <li href="https://en.wikipedia.org/wiki/Popping_boba">Popping boba</li>
+        <li href="https://en.wikipedia.org/wiki/Lychee">Lychee</li>
+        <li href="https://en.wikipedia.org/wiki/Grass_jelly">Grass jelly</li>
+        <li href="https://en.wikipedia.org/wiki/Mango">Mango</li>
+        <li>And much more!</li>
       </ul>
+      <img src="https://img.buzzfeed.com/buzzfeed-static/static/2014-06/23/13/campaign_images/webdr06/23-bodacious-bubble-tea-recipes-you-need-to-try-t-2-17435-1403543924-21_dblbig.jpg">
   </body>
 
 
