@@ -21,9 +21,29 @@ h4 {
 p {
 	font-size: 18px;
 }
-ul {
-	margin-left: auto;
+ul.toppings {
+	   margin-left: auto;
     margin-right: auto;
+}
+ul.navbar {
+    height: 75px;
+    color: #403D39;
+    display: inline;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+li {
+    float: left;
+}
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
 }
 .info {
 	font-style: Geneva;
@@ -34,7 +54,6 @@ ul {
     text-align: justify;
     font-style: Georgia;
     width: 1000px;
-    
 }
 .header {
     background-color: SlateGray;
@@ -54,11 +73,8 @@ ul {
   margin-left: auto;
   margin-right: auto;
 }
-#grad {
- background: linear-gradient(LightCoral, GhostWhite);
-}
 #definition {
-	width: 1200px;
+	  width: 1200px;
     margin-left: auto;
     margin-right: auto;
     text-align: justify;
