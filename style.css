@@ -20,10 +20,24 @@ h4 {
 }
 p {
 	font-size: 18px;
+	text-align: center;
+}
+div {
+	text-align: center;
+}
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    float: left;
 }
 ul.toppings {
-	   margin-left: auto;
-    margin-right: auto;
+    display: inline-block;
+    text-align: center;
+    display: inline-block; 
+	text-align: left;
 }
 ul.navbar {
     height: 75px;
@@ -34,16 +48,6 @@ ul.navbar {
     padding: 0;
     overflow: hidden;
     background-color: #333;
-}
-li {
-    float: left;
-}
-li a {
-    display: block;
-    color: white;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
 }
 .info {
 	font-style: Geneva;
@@ -80,10 +84,18 @@ li a {
     text-align: justify;
     font-style: Georgia;
 }
-h4.2types {
+.2types {
 	margin-left: auto;
     margin-right: auto;
     text-align: center;
     position: relative;
     left: 100px;
+}
+.toppings-header {
+	background-color: SlateGray;
+    padding: 40px;
+    text-align: center;
+    font-size: 50px;
+    letter-spacing: 2px;
+    font-style: Helvetica;
 }
