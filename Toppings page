@@ -1,5 +1,21 @@
-      <p class=info>Although boba is the namestake of this tasty drink, "boba"-or "pearls"- is only one ingrdient in bubble tea, and even it's optional! There are many more similar things avalible to add to your tea that are just as fun and delicious as the popular perals. In most boba places you can usually order whatever combonation of these toppings that you'd like</p>
+     <!doctype html>
+<html lang="en">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+      <ul class="navbar">
+  <li><a href="Boba%20website.sublime.html">Home</a></li>
+  <li><a href="Toppings%20page.html">Toppings</a></li>
+  <li><a href="Contact%20page.html">Contact</a></li>
+  </ul>
+    <div>
+    <h1 class="toppings-header">Toppings</h1>
+    </div>
+    <br>
+       <img src="https://img.buzzfeed.com/buzzfeed-static/static/2014-06/23/13/campaign_images/webdr06/23-bodacious-bubble-tea-recipes-you-need-to-try-t-2-17435-1403543924-21_dblbig.jpg">
+      <p class=info>Although boba is the namestake of this tasty drink, boba-or pearls- is only one ingrdient in bubble tea, and even it's optional! There are many more similar things avalible to add to your tea that are just as fun and delicious as the popular perals. In most boba places you can usually order whatever combonation of these toppings that you'd like</p>
       <p>These toppings include:</p>
+   <div>
       <ul class="toppings"> 
         <li href="https://en.wikipedia.org/wiki/Coconut_jelly">Coconut jelly</li>
         <li href="https://en.wikipedia.org/wiki/Konjac">Konjac</li>
@@ -10,4 +26,5 @@
         <li href="https://en.wikipedia.org/wiki/Mango">Mango</li>
         <li>And much more!</li>
       </ul>
-      <img src="https://img.buzzfeed.com/buzzfeed-static/static/2014-06/23/13/campaign_images/webdr06/23-bodacious-bubble-tea-recipes-you-need-to-try-t-2-17435-1403543924-21_dblbig.jpg">
+    </div>
+</html>
